@@ -34,7 +34,7 @@
 
 **5.猜你喜欢界面：**
 
-![Image text](image/猜你喜欢.png)
+![Image text](image/支付.png)
 
 **6.创意家居界面：**
 
